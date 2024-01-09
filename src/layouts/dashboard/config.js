@@ -46,7 +46,7 @@ export const items = [
     )
   },
   {
-    title: 'Branchess',
+    title: 'Branches',
     path: '/settings',
     icon: (
       <SvgIcon fontSize="small">
